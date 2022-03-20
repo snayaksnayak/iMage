@@ -32,15 +32,16 @@ How to use:
 - Peep into "Help" once!
 
 To open saved *.1mg files:
- For the first time,
+1. For the first time,
 - Right click on any *.1mg file,
 - Select "Open With..." > "More apps",
 - Select "Look for another app on this PC",
 - Select "iMage.exe",
 - Tick mark "Always use this app to open .1mg files",
 - Click "OK".
- Next time onwards,
+2. Next time onwards,
 - Double Click on *.1mg files.
 
 Imagination is limitless!
+
 Enjoy!
